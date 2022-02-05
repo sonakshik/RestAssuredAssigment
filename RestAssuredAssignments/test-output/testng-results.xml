@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-02T22:59:24 IST" name="Default suite" finished-at="2022-02-02T22:59:33 IST" duration-ms="9511">
+    <groups>
+    </groups>
+    <test started-at="2022-02-02T22:59:24 IST" name="Default test" finished-at="2022-02-02T22:59:33 IST" duration-ms="9511">
+      <class name="RestAssuredTrial.RestAssuredDemo">
+        <test-method signature="api1()[pri:0, instance:RestAssuredTrial.RestAssuredDemo@27ff5d15]" started-at="2022-02-02T22:59:24 IST" name="api1" finished-at="2022-02-02T22:59:29 IST" duration-ms="5192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api1 -->
+        <test-method signature="api2()[pri:0, instance:RestAssuredTrial.RestAssuredDemo@27ff5d15]" started-at="2022-02-02T22:59:29 IST" name="api2" finished-at="2022-02-02T22:59:31 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api2 -->
+        <test-method signature="api3()[pri:0, instance:RestAssuredTrial.RestAssuredDemo@27ff5d15]" started-at="2022-02-02T22:59:31 IST" name="api3" finished-at="2022-02-02T22:59:33 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api3 -->
+      </class> <!-- RestAssuredTrial.RestAssuredDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
